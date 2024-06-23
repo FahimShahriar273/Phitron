@@ -1,2 +1,3 @@
 # Phitron
-Online Course for learning fundamental concept of programming  
+A online Course where i am learning fundamental concept of programming.
+
